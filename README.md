@@ -34,12 +34,19 @@
 - Data: Excel
 - Desc: Survey of houses within a region.
 
-## Superfund Sites
+## [Superfund Sites](https://www.epa.gov/superfund/superfund-data-and-reports)
 - Year: Various
 - Level: Location
 - Tags: Hazardous Waste
 - Data: Excel
 - Desc: Locations of Superfund sites.
+
+## [EPA's Smart Location](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)
+- Year: Various
+- Level: Location
+- Tags: Transportation
+- Data: Excel
+- Desc: Relationship between transit and built environment.
 
 # Supplemental GIS Data
 
