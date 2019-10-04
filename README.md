@@ -58,5 +58,5 @@
 
 # Restricted
 
-## ## [USPS/HUD Vacant Homes](https://www.huduser.gov/portal/datasets/usps.html)
+## [USPS/HUD Vacant Homes](https://www.huduser.gov/portal/datasets/usps.html)
 - Note: Data is restricted to non-profit/govt.
