@@ -13,11 +13,11 @@
 - Data: Excel
 - Desc: Public water systems and violation of EPA's drinking water regulations
 
-## [HUD's Community Development Block Grant (CDBG) Grant - Expenditure Reports](https://nlihc.org/article/40-years-ago-august-22-president-ford-signs-housing-and-community-development-act-1974)
+## [HUD's Community Development Block Grant (CDBG) Grant - Expenditure Reports](https://www.hudexchange.info/programs/cdbg/cdbg-expenditure-reports/)
 - Year: 2002-2017
 - Level: State, County
 - Tags: Infrastructural Construction
-- Data: Excel (by State), PDF (by County)
+- Data: Excel (by State), PDF (by City/County)
 - Desc: Expenditures by CDBG grant program, including expenditures to repair water/sewer systems and how many people impacted.
 
 ## [Census's Manufacturing, Mining, and Construction Statistics](https://www.census.gov/construction/bps/)
@@ -52,7 +52,7 @@
 
 ## [USDA's Watershed Boundary GIS Layers](https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/water/watersheds/dataset/)
 
-## [USGS's Protected Areas Database](http://gapanalysis.usgs.gov/padus/data/)
+## [USGS's Protected Areas Database (PAD)](http://gapanalysis.usgs.gov/padus/data/)
 
 ## [USGS's National Hydrography Database](http://nhd.usgs.gov/)
 
